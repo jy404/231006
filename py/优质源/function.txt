@@ -1,27 +1,27 @@
-2025-03-25 18:21:22,271 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt 获取成功，判断为txt格式
-2025-03-25 18:21:22,275 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 影视频道, 河南频道, 浙江频道, 黑龙江频道, 湖北频道, 湖南频道, 港澳频道, RTMP频道EXO解码
-2025-03-25 18:21:22,366 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/dengmeiqing/IPTV1/refs/heads/main/live.txt 获取成功，判断为txt格式
-2025-03-25 18:21:22,451 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/dengmeiqing/IPTV1/refs/heads/main/live.txt 爬取成功✅，包含频道分类: 央视频道, 广东频道, 卫视频道, 港·澳·台, 少儿频道, 影视频道
-2025-03-25 18:21:22,550 - INFO - url: https://m3u.ibert.me/fmml_ipv6.m3u 获取成功，判断为m3u格式
-2025-03-25 18:21:22,551 - INFO - url: https://m3u.ibert.me/fmml_ipv6.m3u 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 体验频道, 浙江频道, 内蒙频道
-2025-03-25 18:21:23,160 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/dengmeiqing/IPTV1/main/直播/央视频道.txt 获取成功，判断为txt格式
-2025-03-25 18:21:23,160 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/dengmeiqing/IPTV1/main/直播/央视频道.txt 爬取成功✅，包含频道分类: 央视频道
-2025-03-25 18:21:24,290 - INFO - url: https://live.zhoujie218.top/tv/iptv6.txt 获取成功，判断为txt格式
-2025-03-25 18:21:24,291 - INFO - url: https://live.zhoujie218.top/tv/iptv6.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 地方频道, 体育频道, 其他频道, 更新时间
-2025-03-25 18:21:25,658 - INFO - url: https://live.zhoujie218.top/tv/iptv4.txt 获取成功，判断为txt格式
-2025-03-25 18:21:25,667 - INFO - url: https://live.zhoujie218.top/tv/iptv4.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 综艺频道, 纪录频道, 体育频道, 解说频道, 游戏频道, 音乐频道, 戏曲频道, 春晚频道, 直播中国, 其他频道, 更新时间
-2025-03-25 18:21:25,815 - ERROR - url: https://www.mytvsuper.xyz/m3u/Yang.m3u 爬取失败❌, Error: HTTPSConnectionPool(host='www.mytvsuper.xyz', port=443): Max retries exceeded with url: /m3u/Yang.m3u (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mytvsuper.xyz'. (_ssl.c:1028)")))
-2025-03-25 18:21:27,801 - INFO - url: https://tv.youdu.fan:666/live/ 获取成功，判断为txt格式
-2025-03-25 18:21:27,848 - INFO - url: https://tv.youdu.fan:666/live/ 爬取成功✅，包含频道分类: 🌹防失联, 📡游山玩水, 央视节目, 卫视节目, IPV6央视频道, IPV6卫视频道, 央视频道, 卫视频道, 地方频道, 📡儿童频道, 📡港澳台频道, 📡历届春晚, 📡直播中国, 🌏国际频道, 💞电影频道, 💃丨MTV现代, 📛丨MTV怀旧, 📡测试
-2025-03-25 18:21:28,898 - ERROR - url: http://ww.weidonglong.com/dsj.txt 爬取失败❌, Error: HTTPConnectionPool(host='ww.weidonglong.com', port=80): Max retries exceeded with url: /dsj.txt (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7f975c9eecf0>: Failed to resolve 'ww.weidonglong.com' ([Errno -2] Name or service not known)"))
-2025-03-25 18:21:29,134 - INFO - url: http://xhztv.top/zbc.txt 获取成功，判断为txt格式
-2025-03-25 18:21:29,137 - INFO - url: http://xhztv.top/zbc.txt 爬取成功✅，包含频道分类: ﻿新闻频道, 央视, 央视IPv6, 卫视IPv6, 港湾频道, 广东地区, 直播中国, 体育频道, 少儿频道, 电影频道, 影视综合, MTV频道, 历届春晚, ♥聚玩盒子
-2025-03-25 18:21:30,591 - INFO - url: http://home.jundie.top:81/Cat/tv/live.txt 获取成功，判断为txt格式
-2025-03-25 18:21:30,595 - INFO - url: http://home.jundie.top:81/Cat/tv/live.txt 爬取成功✅，包含频道分类: 📺央视频道, 💰央视付费频道, 📡卫视频道, ☘️广东频道, ☘️浙江频道, ☘️北京频道, ☘️上海频道, ☘️重庆频道, ☘️江苏频道, ☘️辽宁频道, ☘️湖南频道, ☘️湖北频道, ☘️广西频道, ☘️天津频道, ☘️四川频道, ☘️陕西频道, ☘️福建频道, ☘️河南频道, ☘️河北频道, ☘️贵州频道, ☘️甘肃频道, ☘️新疆频道, ☘️山东频道, ☘️山西频道, ☘️安徽频道, ☘️宁夏频道, ☘️吉林频道, ☘️云南频道, ☘️青海频道, ☘️黑龙江频道, 🌊港·澳·台, 🎬电影频道, 🎥咪咕直播, 🏀体育频道, 🪁动画频道, 🎮游戏频道, 🎵音乐频道, 🏛经典剧场, 埋堆堆
-2025-03-25 18:21:30,827 - INFO - url: https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u 获取成功，判断为m3u格式
-2025-03-25 18:21:30,827 - INFO - url: https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u 爬取成功✅，包含频道分类: 央视, 卫视, 地方, 购物
-2025-03-25 18:21:31,544 - INFO - url: https://fm1077.serv00.net/SmartTV.m3u 获取成功，判断为m3u格式
-2025-03-25 18:21:31,545 - INFO - url: https://fm1077.serv00.net/SmartTV.m3u 爬取成功✅，包含频道分类: 臺灣 Taiwan, 馬來西亞 Malaysia, 新加坡 Singapore, 印尼 Indonesia, 香港 Hongkong, 中國 China, 體育 Sports, 印度 Indian, 電影 Movie, 紀錄 Documentary, 新聞 News, 兒童 Kids, 泰國 Thailand, 英國 United Kingdom, 越南 Vietnam, 韓國 Korea, 日本 Japan
-2025-03-25 18:21:31,610 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 获取成功，判断为txt格式
-2025-03-25 18:21:31,676 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 爬取成功✅，包含频道分类: 更新时间, 💓专享源🅰️, 💓专享源🅱️, 💓专享央视, 💓专享卫视, 💓港澳台📶, 💓AKTV🚀📶, 💓台湾台📶, 💓电视剧🔁, 💓优质个源, 💓儿童专享, 💓咪咕直播, 🏀SPORTS⚽️, 🍹定制台☕️, 🍹定制P3P☕️, 💓英语频道, 💓4K(Test), 🌐央视频道, 📡卫视频道, 上海频道, 体育频道, 电影频道, 电视剧频道, 明星, 主题片, 港澳台, 国际台, 纪录片, 动画片, 戏曲频道, 综艺频道, 音乐频道, 游戏频道, ☘️湖南频道, ☘️湖北频道, ☘️广东频道, ☘️浙江频道, ☘️山东频道, ☘️江苏频道, ☘️安徽频道, ☘️海南频道, ☘️内蒙频道, ☘️辽宁频道, ☘️陕西频道, ☘️山西频道, ☘️云南频道, ☘️北京频道, ☘️重庆频道, ☘️福建频道, ☘️甘肃频道, ☘️广西频道, ☘️贵州频道, ☘️河北频道, ☘️河南频道, ☘️黑龙江频道, ☘️吉林频道, ☘️江西频道, ☘️宁夏频道, ☘️青海频道, ☘️四川频道, ☘️天津频道, ☘️新疆频道, 解说频道, 春晚, 直播中国, MTV, 收音机频道, ❤️以家人之名
-2025-03-25 18:21:35,486 - INFO - 爬取完成✅，共计频道数：6697
+2025-03-26 18:21:52,317 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt 获取成功，判断为txt格式
+2025-03-26 18:21:52,322 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 影视频道, 河南频道, 浙江频道, 黑龙江频道, 湖北频道, 湖南频道, 港澳频道, RTMP频道EXO解码, 组播剧场, 北京频道
+2025-03-26 18:21:52,519 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/dengmeiqing/IPTV1/refs/heads/main/live.txt 获取成功，判断为txt格式
+2025-03-26 18:21:52,613 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/dengmeiqing/IPTV1/refs/heads/main/live.txt 爬取成功✅，包含频道分类: 央视频道, 广东频道, 卫视频道, 港·澳·台, 少儿频道, 影视频道
+2025-03-26 18:21:52,687 - INFO - url: https://m3u.ibert.me/fmml_ipv6.m3u 获取成功，判断为m3u格式
+2025-03-26 18:21:52,688 - INFO - url: https://m3u.ibert.me/fmml_ipv6.m3u 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 体验频道, 浙江频道, 内蒙频道
+2025-03-26 18:21:53,376 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/dengmeiqing/IPTV1/main/直播/央视频道.txt 获取成功，判断为txt格式
+2025-03-26 18:21:53,377 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/dengmeiqing/IPTV1/main/直播/央视频道.txt 爬取成功✅，包含频道分类: 央视频道
+2025-03-26 18:21:54,512 - INFO - url: https://live.zhoujie218.top/tv/iptv6.txt 获取成功，判断为txt格式
+2025-03-26 18:21:54,512 - INFO - url: https://live.zhoujie218.top/tv/iptv6.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 体育频道, 其他频道, 更新时间
+2025-03-26 18:21:55,797 - INFO - url: https://live.zhoujie218.top/tv/iptv4.txt 获取成功，判断为txt格式
+2025-03-26 18:21:55,805 - INFO - url: https://live.zhoujie218.top/tv/iptv4.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 解说频道, 游戏频道, 音乐频道, 春晚频道, 直播中国, 其他频道, 更新时间
+2025-03-26 18:21:55,954 - ERROR - url: https://www.mytvsuper.xyz/m3u/Yang.m3u 爬取失败❌, Error: HTTPSConnectionPool(host='www.mytvsuper.xyz', port=443): Max retries exceeded with url: /m3u/Yang.m3u (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mytvsuper.xyz'. (_ssl.c:1028)")))
+2025-03-26 18:21:57,461 - INFO - url: https://tv.youdu.fan:666/live/ 获取成功，判断为txt格式
+2025-03-26 18:21:57,507 - INFO - url: https://tv.youdu.fan:666/live/ 爬取成功✅，包含频道分类: 🌹防失联, 📡游山玩水, 央视节目, 卫视节目, IPV6央视频道, IPV6卫视频道, 央视频道, 卫视频道, 地方频道, 📡儿童频道, 📡港澳台频道, 📡历届春晚, 📡直播中国, 🌏国际频道, 💞电影频道, 💃丨MTV现代, 📛丨MTV怀旧, 📡测试
+2025-03-26 18:21:57,900 - ERROR - url: http://ww.weidonglong.com/dsj.txt 爬取失败❌, Error: HTTPConnectionPool(host='ww.weidonglong.com', port=80): Max retries exceeded with url: /dsj.txt (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7f4fdb02ecf0>: Failed to resolve 'ww.weidonglong.com' ([Errno -2] Name or service not known)"))
+2025-03-26 18:21:58,152 - INFO - url: http://xhztv.top/zbc.txt 获取成功，判断为txt格式
+2025-03-26 18:21:58,155 - INFO - url: http://xhztv.top/zbc.txt 爬取成功✅，包含频道分类: ﻿新闻频道, 央视, 央视IPv6, 卫视IPv6, 港湾频道, 广东地区, 直播中国, 体育频道, 少儿频道, 电影频道, 影视综合, MTV频道, 历届春晚, ♥聚玩盒子
+2025-03-26 18:21:59,219 - INFO - url: http://home.jundie.top:81/Cat/tv/live.txt 获取成功，判断为txt格式
+2025-03-26 18:21:59,223 - INFO - url: http://home.jundie.top:81/Cat/tv/live.txt 爬取成功✅，包含频道分类: 📺央视频道, 💰央视付费频道, 📡卫视频道, ☘️广东频道, ☘️浙江频道, ☘️北京频道, ☘️上海频道, ☘️重庆频道, ☘️江苏频道, ☘️辽宁频道, ☘️湖南频道, ☘️湖北频道, ☘️广西频道, ☘️天津频道, ☘️四川频道, ☘️陕西频道, ☘️福建频道, ☘️河南频道, ☘️河北频道, ☘️贵州频道, ☘️甘肃频道, ☘️新疆频道, ☘️山东频道, ☘️山西频道, ☘️安徽频道, ☘️宁夏频道, ☘️吉林频道, ☘️云南频道, ☘️青海频道, ☘️黑龙江频道, 🌊港·澳·台, 🎬电影频道, 🎥咪咕直播, 🏀体育频道, 🪁动画频道, 🎮游戏频道, 🎵音乐频道, 🏛经典剧场, 埋堆堆
+2025-03-26 18:21:59,254 - INFO - url: https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u 获取成功，判断为m3u格式
+2025-03-26 18:21:59,254 - INFO - url: https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u 爬取成功✅，包含频道分类: 央视, 卫视, 地方, 购物
+2025-03-26 18:21:59,867 - INFO - url: https://fm1077.serv00.net/SmartTV.m3u 获取成功，判断为m3u格式
+2025-03-26 18:21:59,868 - INFO - url: https://fm1077.serv00.net/SmartTV.m3u 爬取成功✅，包含频道分类: 臺灣 Taiwan, 馬來西亞 Malaysia, 新加坡 Singapore, 印尼 Indonesia, 香港 Hongkong, 中國 China, 體育 Sports, 印度 Indian, 電影 Movie, 紀錄 Documentary, 新聞 News, 兒童 Kids, 泰國 Thailand, 英國 United Kingdom, 越南 Vietnam, 韓國 Korea, 日本 Japan
+2025-03-26 18:22:00,035 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 获取成功，判断为txt格式
+2025-03-26 18:22:00,100 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 爬取成功✅，包含频道分类: 更新时间, 💓专享源🅰️, 💓专享源🅱️, 💓专享央视, 💓专享卫视, 💓港澳台📶, 💓AKTV🚀📶, 💓台湾台📶, 💓电视剧🔁, 💓优质个源, 💓儿童专享, 💓咪咕直播, 🏀SPORTS⚽️, 🍹定制台☕️, 🍹定制P3P☕️, 💓英语频道, 💓4K(Test), 🌐央视频道, 📡卫视频道, 上海频道, 体育频道, 电影频道, 电视剧频道, 明星, 主题片, 港澳台, 国际台, 纪录片, 动画片, 戏曲频道, 综艺频道, 音乐频道, 游戏频道, ☘️湖南频道, ☘️湖北频道, ☘️广东频道, ☘️浙江频道, ☘️山东频道, ☘️江苏频道, ☘️安徽频道, ☘️海南频道, ☘️内蒙频道, ☘️辽宁频道, ☘️陕西频道, ☘️山西频道, ☘️云南频道, ☘️北京频道, ☘️重庆频道, ☘️福建频道, ☘️甘肃频道, ☘️广西频道, ☘️贵州频道, ☘️河北频道, ☘️河南频道, ☘️黑龙江频道, ☘️吉林频道, ☘️江西频道, ☘️宁夏频道, ☘️青海频道, ☘️四川频道, ☘️天津频道, ☘️新疆频道, 解说频道, 春晚, 直播中国, MTV, 收音机频道, ❤️以家人之名
+2025-03-26 18:22:03,698 - INFO - 爬取完成✅，共计频道数：7459
