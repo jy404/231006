@@ -1,24 +1,24 @@
-2025-11-03 18:23:53,778 - ERROR - url: https://gh-proxy.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://gh-proxy.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt
-2025-11-03 18:23:54,146 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/dengmeiqing/IPTV1/refs/heads/main/live.txt 获取成功，判断为txt格式
-2025-11-03 18:23:54,167 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/dengmeiqing/IPTV1/refs/heads/main/live.txt 爬取成功✅，包含频道分类: 央视频道, 广东频道, 卫视频道, 港·澳·台, 少儿频道, 影视频道
-2025-11-03 18:23:54,496 - INFO - url: https://m3u.ibert.me/fmml_ipv6.m3u 获取成功，判断为m3u格式
-2025-11-03 18:23:54,497 - INFO - url: https://m3u.ibert.me/fmml_ipv6.m3u 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 浙江频道, 内蒙频道
-2025-11-03 18:23:54,847 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/dengmeiqing/IPTV1/main/直播/央视频道.txt 获取成功，判断为txt格式
-2025-11-03 18:23:54,847 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/dengmeiqing/IPTV1/main/直播/央视频道.txt 爬取成功✅，包含频道分类: 央视频道
-2025-11-03 18:23:55,429 - INFO - url: https://live.zhoujie218.top/tv/iptv6.txt 获取成功，判断为txt格式
-2025-11-03 18:23:55,429 - INFO - url: https://live.zhoujie218.top/tv/iptv6.txt 爬取成功✅，包含频道分类: 更新时间
-2025-11-03 18:23:55,597 - INFO - url: https://live.zhoujie218.top/tv/iptv4.txt 获取成功，判断为txt格式
-2025-11-03 18:23:55,601 - INFO - url: https://live.zhoujie218.top/tv/iptv4.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 解说频道, 音乐频道, 春晚频道, 直播中国, 更新时间
-2025-11-03 18:23:55,618 - ERROR - url: https://www.mytvsuper.xyz/m3u/Yang.m3u 爬取失败❌, Error: HTTPSConnectionPool(host='www.mytvsuper.xyz', port=443): Max retries exceeded with url: /m3u/Yang.m3u (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8e7ecdd6d0>: Failed to resolve 'www.mytvsuper.xyz' ([Errno -2] Name or service not known)"))
-2025-11-03 18:23:56,498 - ERROR - url: https://tv.youdu.fan:666/live/ 爬取失败❌, Error: 403 Client Error: Forbidden for url: https://tv.youdu.fan:666/live/
-2025-11-03 18:23:57,327 - INFO - url: http://ww.weidonglong.com/dsj.txt 获取成功，判断为txt格式
-2025-11-03 18:23:57,327 - INFO - url: http://ww.weidonglong.com/dsj.txt 爬取成功✅，包含频道分类: 本版本停服, 央视, 卫视, 影视, 体育, 👉下载地址
-2025-11-03 18:23:57,497 - ERROR - url: http://xhztv.top/zbc.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: http://xhztv.top/zbc.txt
-2025-11-03 18:26:11,473 - ERROR - url: http://home.jundie.top:81/Cat/tv/live.txt 爬取失败❌, Error: HTTPConnectionPool(host='home.jundie.top', port=81): Max retries exceeded with url: /Cat/tv/live.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f8e7ecde350>, 'Connection to home.jundie.top timed out. (connect timeout=None)'))
-2025-11-03 18:26:11,512 - INFO - url: https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u 获取成功，判断为m3u格式
-2025-11-03 18:26:11,512 - INFO - url: https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u 爬取成功✅，包含频道分类: 央视, 卫视, 地方, 数字
-2025-11-03 18:26:12,706 - INFO - url: https://fm1077.serv00.net/SmartTV.m3u 获取成功，判断为m3u格式
-2025-11-03 18:26:12,708 - INFO - url: https://fm1077.serv00.net/SmartTV.m3u 爬取成功✅，包含频道分类: 臺灣 Taiwan, 馬來西亞 Malaysia, 新加坡 Singapore, 印尼 Indonesia, 香港 Hongkong, 中國 China, 體育 Sports, 印度 Indian, 電影 Movie, 紀錄 Documentary, 新聞 News, 兒童 Kids, 泰國 Thailand, 英國 United Kingdom, 越南 Vietnam, 韓國 Korea, 日本 Japan
-2025-11-03 18:26:12,941 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 获取成功，判断为txt格式
-2025-11-03 18:26:12,941 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 爬取成功✅，包含频道分类: 更新时间
-2025-11-03 18:26:13,271 - INFO - 爬取完成✅，共计频道数：747
+2025-11-04 18:24:31,691 - ERROR - url: https://gh-proxy.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://gh-proxy.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt
+2025-11-04 18:24:31,940 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/dengmeiqing/IPTV1/refs/heads/main/live.txt 获取成功，判断为txt格式
+2025-11-04 18:24:31,961 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/dengmeiqing/IPTV1/refs/heads/main/live.txt 爬取成功✅，包含频道分类: 央视频道, 广东频道, 卫视频道, 港·澳·台, 少儿频道, 影视频道
+2025-11-04 18:24:32,143 - INFO - url: https://m3u.ibert.me/fmml_ipv6.m3u 获取成功，判断为m3u格式
+2025-11-04 18:24:32,143 - INFO - url: https://m3u.ibert.me/fmml_ipv6.m3u 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 浙江频道, 内蒙频道
+2025-11-04 18:24:32,326 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/dengmeiqing/IPTV1/main/直播/央视频道.txt 获取成功，判断为txt格式
+2025-11-04 18:24:32,327 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/dengmeiqing/IPTV1/main/直播/央视频道.txt 爬取成功✅，包含频道分类: 央视频道
+2025-11-04 18:24:32,932 - INFO - url: https://live.zhoujie218.top/tv/iptv6.txt 获取成功，判断为txt格式
+2025-11-04 18:24:32,932 - INFO - url: https://live.zhoujie218.top/tv/iptv6.txt 爬取成功✅，包含频道分类: 更新时间
+2025-11-04 18:24:33,118 - INFO - url: https://live.zhoujie218.top/tv/iptv4.txt 获取成功，判断为txt格式
+2025-11-04 18:24:33,122 - INFO - url: https://live.zhoujie218.top/tv/iptv4.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 解说频道, 音乐频道, 春晚频道, 直播中国, 更新时间
+2025-11-04 18:24:33,141 - ERROR - url: https://www.mytvsuper.xyz/m3u/Yang.m3u 爬取失败❌, Error: HTTPSConnectionPool(host='www.mytvsuper.xyz', port=443): Max retries exceeded with url: /m3u/Yang.m3u (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f961a1216d0>: Failed to resolve 'www.mytvsuper.xyz' ([Errno -2] Name or service not known)"))
+2025-11-04 18:24:34,202 - ERROR - url: https://tv.youdu.fan:666/live/ 爬取失败❌, Error: 403 Client Error: Forbidden for url: https://tv.youdu.fan:666/live/
+2025-11-04 18:24:35,427 - INFO - url: http://ww.weidonglong.com/dsj.txt 获取成功，判断为txt格式
+2025-11-04 18:24:35,427 - INFO - url: http://ww.weidonglong.com/dsj.txt 爬取成功✅，包含频道分类: 本版本停服, 央视, 卫视, 影视, 体育, 👉下载地址
+2025-11-04 18:24:35,781 - ERROR - url: http://xhztv.top/zbc.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: http://xhztv.top/zbc.txt
+2025-11-04 18:24:36,779 - ERROR - url: http://home.jundie.top:81/Cat/tv/live.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: http://home.jundie.top:81/Cat/tv/live.txt
+2025-11-04 18:24:36,841 - INFO - url: https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u 获取成功，判断为m3u格式
+2025-11-04 18:24:36,841 - INFO - url: https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u 爬取成功✅，包含频道分类: 央视, 卫视, 地方, 数字
+2025-11-04 18:24:37,614 - INFO - url: https://fm1077.serv00.net/SmartTV.m3u 获取成功，判断为m3u格式
+2025-11-04 18:24:37,615 - INFO - url: https://fm1077.serv00.net/SmartTV.m3u 爬取成功✅，包含频道分类: 臺灣 Taiwan, 馬來西亞 Malaysia, 新加坡 Singapore, 印尼 Indonesia, 香港 Hongkong, 中國 China, 體育 Sports, 印度 Indian, 電影 Movie, 紀錄 Documentary, 新聞 News, 兒童 Kids, 泰國 Thailand, 英國 United Kingdom, 越南 Vietnam, 韓國 Korea, 日本 Japan
+2025-11-04 18:24:37,876 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 获取成功，判断为txt格式
+2025-11-04 18:24:37,876 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 爬取成功✅，包含频道分类: 更新时间
+2025-11-04 18:24:38,205 - INFO - 爬取完成✅，共计频道数：760
